@@ -11,9 +11,13 @@
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+<br/>
+<br/>
+<br/>
+<br/>
 
-![Djoseffer GitHub stats](https://github-readme-stats.vercel.app/api?username=Djoseffer&show_icons=true&theme=tokyonight&bg_color=011526)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djoseffer&layout=donut&bg_color=011526)](https://github.com/Djoseffer/github-readme-stats)
+![Djoseffer GitHub stats](https://github-readme-stats.vercel.app/api?username=Djoseffer&show_icons=true&theme=tokyonight&bg_color=011526)
 
 ## Tecnologias que uso
 
