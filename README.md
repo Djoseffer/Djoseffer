@@ -1,5 +1,5 @@
 ### Olá! Eu sou Djoseffer Domingues 👋
-[linkedin]: https://www.linkedin.com/in/djoseffer-domingues-324a14263/
+
 
 - 🔭 Hoje trabalho como operador cnc têxtil
 - 👨‍🎓 Estudante universitário de Sistemas de Informação no Centro Universitário Leonardo da Vinci 
@@ -7,7 +7,6 @@
 - 💻 Estudando desenvolvimento full stack
 - 📧 Contato: devdjosefferdomingues@gmail.com
 <br/>
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djoseffer-domingues-324a14263/) 
 [![portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
