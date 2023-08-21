@@ -1,7 +1,7 @@
 ### Olá! Eu sou Djoseffer Domingues 👋
 
 
-- 🔭 Hoje trabalho como operador cnc têxtil
+- 🔭 Hoje trabalho como operador cnc têxtil e estágiario no setor de desenvolvimento de software
 - 👨‍🎓 Estudante universitário de Sistemas de Informação no Centro Universitário Leonardo da Vinci 
 - 📖 Cursando inglês no Instituto Federal Santa Catarina
 - 💻 Estudando desenvolvimento Full Stack
