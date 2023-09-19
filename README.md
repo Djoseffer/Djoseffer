@@ -33,7 +33,8 @@
    <img alt="html15" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </div><br/> 
 
-Desvendando os mistérios da tecnologia, um commit de cada vez.
+
+Unveiling the mysteries of technology, one commit at a time.
 
 
 
