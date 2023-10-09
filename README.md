@@ -1,11 +1,11 @@
-### Olá! Eu sou Djoseffer Domingues 👋
+### Hello! I'm Djoseffer Domingues 👋
 
 
-- 🔭 Hoje trabalho como operador cnc têxtil e estágiario no setor de desenvolvimento de software
-- 👨‍🎓 Estudante universitário de Sistemas de Informação no Centro Universitário Leonardo da Vinci 
-- 📖 Cursando inglês no Instituto Federal Santa Catarina
-- 💻 Estudando desenvolvimento Full Stack
-- 📧 Contato: devdjosefferdomingues@gmail.com
+- 🔭 I work as a textile CNC operator and intern in the software development department.
+- 👨‍🎓 I am a college student majoring in Information Systems at Leonardo da Vinci University Center.
+- 📖 I am studying English at the Federal Institute of Santa Catarina.
+- 💻 Currently, I am focused on studying Full Stack Development.
+- 📧 Contact: devdjosefferdomingues@gmail.com
 <br/>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djoseffer-domingues-324a14263/) 
