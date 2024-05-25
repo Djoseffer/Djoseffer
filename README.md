@@ -18,7 +18,9 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djoseffer&layout=donut&bg_color=011526)](https://github.com/Djoseffer/github-readme-stats)
-![Djoseffer GitHub stats](https://github-readme-stats.vercel.app/api?username=Djoseffer&show_icons=true&theme=tokyonight&bg_color=011526)
+![Djoseffer GitHub stats](https://github-readme-stats.vercel.app/api?username=Djoseffer&show_icons=true&theme=tokyonight&bg_color=011526&count_private=true&cache_buster=1627891234)
+
+
 
 ## I work with these technologies
 
