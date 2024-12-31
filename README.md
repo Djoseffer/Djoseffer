@@ -1,7 +1,7 @@
 ### Hello! I'm Djoseffer Domingues 👋
 
 
-- 🔭 I work as a textile CNC operator and intern in the software development department.
+- 🔭 I work as a Software Developer.
 - 👨‍🎓 I am a college student majoring in Information Systems at Leonardo da Vinci University Center.
 - 📖 I am studying English at the Federal Institute of Santa Catarina.
 - 💻 Currently, I am focused on studying Full Stack Development.
